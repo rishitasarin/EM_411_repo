@@ -4,7 +4,7 @@
 % https://github.com/Joel-Pederson/EM_411_repo
 
 %% Scenario:
-% Peak rush-hour traffic in the morning (0800)
+% Peak rush-hour traffic in the morning (0800 to 1000)
 
 %% -- Load Database -- %%
 [roadDB, bikeDB] = load_DB();
